@@ -3,7 +3,17 @@ body {
     height: 100%;
 }
 
-.header-1 {
+.menu-principal {
+    width: 100%;
     background-color: #252323;
     height: 60px;
+}
+main {
+    margin: 0 auto; 
+    width: 980px; 
+    position: relative;
+    padding: 16px;
+}
+.logo {
+    padding: 16px;
 }
