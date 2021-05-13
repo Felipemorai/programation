@@ -39,6 +39,8 @@ main {
     background-color: #ffffff;
     width: 980px;
     margin: 0 auto;
+}
+.menu-urls {
     border-bottom: 3px solid #efefef;
 }
 .menu ul li {
@@ -54,12 +56,12 @@ main {
 }
 .menu {
     width: 70%;
-    float: ;
+    float: left;
 }
 .busca {
     width: 30%;
     float: right;
-    margin-top: -66px;
+    margin-top: ;
 }
 .col-100 {
     width: 100%;
