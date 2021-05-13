@@ -48,6 +48,10 @@ main {
     display: inline-block;
     color: #8b8b8b;
     margin-left: 15px;
+    
+}
+.menu ul li a:hover {
+    color: #00bac6;
 }
 .menu ul li a {
     color: #8b8b8b;
