@@ -85,3 +85,15 @@ main {
     float: left;
     position: relative;
 }
+button.slick-prev {
+    font-size: 0;
+    border: none;
+    height: 51px;
+    width: 25px;
+    background-color: transparent;
+    background-image: url(../img/img/anterior.png);
+    position: absolute;
+    z-index: 9;
+    top: 35%;
+    left: 0;
+}
