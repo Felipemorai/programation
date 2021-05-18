@@ -95,7 +95,7 @@ button.slick-prev {
     position: absolute;
     z-index: 9;
     top: 35%;
-    left: 0;
+    left: 14%;
 }
 button.slick-next {
     font-size: 0;
@@ -107,5 +107,5 @@ button.slick-next {
     position: absolute;
     z-index: 9;
     top: 35%;
-    right: 0;
+    right: 14%;
 }
