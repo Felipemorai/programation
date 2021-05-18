@@ -97,3 +97,15 @@ button.slick-prev {
     top: 35%;
     left: 0;
 }
+button.slick-next {
+    font-size: 0;
+    border: none;
+    height: 51px;
+    width: 25px;
+    background-color: transparent;
+    background-image: url(../img/img/proximo.png);
+    position: absolute;
+    z-index: 9;
+    top: 35%;
+    right: 0;
+}
