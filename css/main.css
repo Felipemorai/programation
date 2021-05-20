@@ -113,14 +113,14 @@ button.slick-next {
     width: 100%!important;
     overflow-x: hidden;
 }
-ul.slick-dots li button {
+.slick-dots li button {
+
+}
+.slick-dots {
+    margin: 0 auto;
+    width: 50%;
+    float: left;
+}
+.slick-dots li {
     display: inline-block;
-    font-size: 0px;
-    border: 3px solid #ffffff;
-    border-radius: 50%;
-    width: 20px;
-    height: 20px;
-}   
-ul.slick-dots li.slick-active {
-    background-color: #00bac6;
 }
