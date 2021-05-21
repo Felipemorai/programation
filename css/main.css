@@ -114,12 +114,20 @@ button.slick-next {
     overflow-x: hidden;
 }
 .slick-dots li button {
-
+    font-size: 0px;
+    border: 4px solid #ffffff;
+    width: 25px;
+    height: 25px;
+    background: transparent;
+    border-radius: 50%;
+    cursor: pointer;
 }
 .slick-dots {
     margin: 0 auto;
     width: 50%;
-    float: left;
+    position: relative;
+    left: 22%;
+    top: -15%;
 }
 .slick-dots li {
     display: inline-block;
