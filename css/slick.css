@@ -117,13 +117,3 @@
 .slick-arrow.slick-hidden {
     display: none;
 }
-.col-3 {
-    width: 29%;
-    float: left;
-    position: relative;
-    padding-left: 15px;
-    padding-right: 15px;
-}
-.bloco-texto {
-    margin-top: 3em;
-}
