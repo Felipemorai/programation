@@ -172,6 +172,7 @@ li.slick-active button {
 }
 .bloco-imagem b, p {
     text-align: left;
+}
 .bloco-texto {
     margin-top: 3em;
 }
@@ -187,7 +188,7 @@ h3 {
     content: '';
     height: 52px;
     background: #ffffff;
-    background-image: url('../img/setinha.png');
+    background-image: url('../img/img/setinha.png');
     background-repeat: no-repeat;
     background-position: center;
 }
