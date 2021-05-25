@@ -158,6 +158,20 @@ li.slick-active button {
     padding-left: 15px;
     padding-right: 15px;
 }
+.bloco-imagem img {
+    margin: 0 auto;
+    width: 100%;
+    height: auto;
+}
+.bloco-imagem {
+    height: 300px;
+    border: 1px solid #c5c5c5;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-left: 10px;
+}
+.bloco-imagem b, p {
+    text-align: left;
 .bloco-texto {
     margin-top: 3em;
 }
@@ -183,4 +197,9 @@ h3 {
     content: '';
     height: 70px;
     background: #eeeeee;
+}
+.col-4 {
+    float: left;
+    width: 25%;
+    text-align: center;
 }
