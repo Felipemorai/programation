@@ -204,3 +204,7 @@ h3 {
     width: 25%;
     text-align: center;
 }
+.col-4 img {
+    margin: 0 auto;
+    padding-top: 1em;
+}
