@@ -213,3 +213,9 @@ h3 {
 .col-4 img:hover {
     margin-top: 10px!important;
 }
+.bloco-logos {
+    height: 170px;
+}
+.bloco-logos img {
+    margin-top: 50px;
+}
