@@ -219,3 +219,9 @@ h3 {
 .bloco-logos img {
     margin-top: 50px;
 }
+.footer h3 {
+    text-align: left;
+}
+.footer {
+    background-image: url('../img/img/footer.png'); 
+}
