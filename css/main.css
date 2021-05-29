@@ -226,6 +226,9 @@ h3 {
     background-image: url('../img/img/footer.png'); 
     color: #ffffff;
 }
+.clock {
+    color: #898989!important;
+}
 .clock:before {
     content: '';
     width: 15px;
