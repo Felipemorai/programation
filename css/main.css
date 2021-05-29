@@ -226,3 +226,10 @@ h3 {
     background-image: url('../img/img/footer.png'); 
     color: #ffffff;
 }
+.clock:before {
+    content: '';
+    width: 15px;
+    height: 15px;
+    display: inline-block;
+    background-image: url('../img/img/clock.png');
+}
