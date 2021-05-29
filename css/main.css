@@ -230,6 +230,10 @@ h3 {
     content: '';
     width: 15px;
     height: 15px;
+    float: left;
+    margin-left: 3px;
     display: inline-block;
     background-image: url('../img/img/clock.png');
+    background-repeat: no-repeat;
+    padding-left: 5px;
 }
