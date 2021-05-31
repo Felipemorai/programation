@@ -251,7 +251,20 @@ h3 {
 .local:before, .email:before, .telefone:before {
     content: '';
     width: 15px;
+    height: 15px;
     display: inline-block;
     float: left;
     padding-left: 5px;
+}
+.local:before {
+    background-image: url('../img/img/local.png');
+    background-repeat: no-repeat;
+}
+.email:before {
+    background-image: url('../img/img/email.png');
+    background-repeat: no-repeat;
+}
+.telefone:before {
+    background-image: url('../img/img/telefoneico.png');
+    background-repeat: no-repeat;
 }
