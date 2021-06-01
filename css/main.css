@@ -229,6 +229,10 @@ h3 {
 .footer-2 {
     background-image: url('../img/img/footer2.png');
     color: #c1c1c1;
+    height: 90px;
+}
+.footer p{
+    width: 70%;
 }
 .clock {
     color: #898989!important;
@@ -272,3 +276,14 @@ h3 {
     background-image: url('../img/img/telefoneico.png');
     background-repeat: no-repeat;
 }
+.redes-sociais-2 ul li {
+    margin-left: 7px;
+    display: inline-block;
+    float: left;
+    list-style: none;
+    width: 20%;
+}
+.redes-sociais-2 {
+    width: 20%;
+    float: right;
+    margin-top: -4%;
